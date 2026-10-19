@@ -1,4 +1,4 @@
-# Programación Avanzada — Alonso Leonard
+# POO — Alonso Leonard
 
 Proyectos de NetBeans (Maven + Java FXML). Cada carpeta `EjercicioX_Y_*` es un proyecto independiente:
 ábrelo en NetBeans con **File → Open Project** y ejecútalo con **Run** (o `mvn clean javafx:run`).
